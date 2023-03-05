@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Mobile App With Flutter.**
 
-- 🔭 I’m currently working on [GPA Calculator Flutter](https://github.com/BossHunTerCoding/GPA-Calculator-Flutter.git)
-
-- 🤝 I’m looking for help with [Survival Horror Game With Unity](https://github.com/BossHunTerCoding/Survival-Horror-Game.git)
-
 - 📫 How to reach me **ktookrittinoo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
