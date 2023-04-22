@@ -127,13 +127,22 @@
 
 <div align='center'>
 
-## <b>Active Learn Coding...✨</b>
+## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="40px" height="40px" align="left"><b>Active Learn Coding...✨</b><img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="40px" height="40px" align="right">
+	
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-RTX%202060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <a href="https://www.microsoft.com/en-us/windows/">
+    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+  <a href="https://www.intel.com/content/www/us/en/homepage.html">
+    <img src="https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
+  </a>
+  <a href="https://www.jib.co.th/web/product/product_list/2/30">
+    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://www.nvidia.com/en-us/geforce/drivers/">
+    <img src="https://img.shields.io/badge/nvidia-RTX%202060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
+  </a>
 </p>
 
 </div>
