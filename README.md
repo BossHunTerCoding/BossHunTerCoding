@@ -31,7 +31,7 @@
 <p align="center">
 
 - **Languages**:
-  
+
   [![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
   [![Fullter](https://img.shields.io/badge/Fullter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
   [![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev/)
@@ -41,17 +41,17 @@
     
 - **Front-End Development**:
 
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-  [![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
 <br>
 
 - **Cloud Hosting**:
-  
+
   [![Replit](https://img.shields.io/badge/replit-F26207.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/~)
   [![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com/)
-    
+
 <br>
 
 - **Softwares and Tools**:
@@ -128,7 +128,7 @@
 <div align='center'>
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="40px" height="40px" align="left"><b>Active Learn Coding...✨</b><img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="40px" height="40px" align="right">
-	
+
 <p align='center'>
   💻 My workspace
 </p>
