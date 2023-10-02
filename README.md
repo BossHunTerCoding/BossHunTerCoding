@@ -7,8 +7,10 @@
 </p>
 
 <br>
-	
-## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> About me <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src = "https://komarev.com/ghpvc/?username=BossHunTerCoding&color=111111&style=for-the-badge&label=visitors" align="right"></a>
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src = "https://komarev.com/ghpvc/?username=BossHunTerCoding&color=111111&style=for-the-badge&label=visitors" align="right"></a>
+ 
+## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> About me 
 
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
 
